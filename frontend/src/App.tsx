@@ -37,6 +37,8 @@ function App() {
             Vite Docs
           </a>
         </p>
+        <p><button className="btn">Button</button>
+        </p>
       </header>
     </div>
   )
